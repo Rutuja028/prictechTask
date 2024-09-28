@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:task/homePage.dart';
 import 'package:task/sign_up.dart';
+import "dart:developer";
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
